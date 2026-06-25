@@ -1,0 +1,32 @@
+[
+    {
+        "customer": "Rajesh",
+        "items": [
+            {
+                "product": "Banana Chips",
+                "weight": "200g",
+                "packets": 2
+            }
+        ]
+    },
+    {
+        "customer": "Ashish Ladha",
+        "items": [
+            {
+                "product": "Banana Chips",
+                "weight": "200g",
+                "packets": "2"
+            }
+        ]
+    },
+    {
+        "customer": "Ashish Ladha",
+        "items": [
+            {
+                "product": "Adrak Powder",
+                "weight": "200g",
+                "packets": "1"
+            }
+        ]
+    }
+]
